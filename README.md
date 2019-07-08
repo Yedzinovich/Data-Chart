@@ -11,12 +11,12 @@ This folder is a contender for my simple Data Science Python projects related to
 -  Getting and Working with Data, 
 -  Machine Learning,
 -  k-Nearest Neighbours, 
--  Naive Bayes
--  Simple Linear Regression 
--  Multiple Regression 
--  Logistic Regression 
--  Decision Trees
--  Neural Networks
--  Clustering 
--  Natural Language Processing 
--  Network Analysis 
+-  Naive Bayes,
+-  Simple Linear Regression, 
+-  Multiple Regression, 
+-  Logistic Regression, 
+-  Decision Trees,
+-  Neural Networks,
+-  Clustering, 
+-  Natural Language Processing, 
+-  Network Analysis. 
