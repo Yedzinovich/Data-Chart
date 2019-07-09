@@ -1,7 +1,7 @@
 # Data-Chart
 Data Analysis Charts 
 
-This folder is a contender for my simple Data Science Python projects related to:
+This folder is a container for my simple Data Science Python projects related to:
 -  Data Visualization, 
 -  Linear Algebra, 
 -  Statistics, 
